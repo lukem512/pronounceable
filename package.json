@@ -1,0 +1,26 @@
+{
+  "name": "pronounceable",
+  "version": "1.0.0",
+  "description": "Test a word for pronounceability",
+  "main": "pronounceable.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukem512/pronounceable.git"
+  },
+  "keywords": [
+    "pronounceable",
+    "pronounceability",
+    "grammar",
+    "language",
+    "speech"
+  ],
+  "author": "Luke Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukem512/pronounceable/issues"
+  },
+  "homepage": "https://github.com/lukem512/pronounceable"
+}
