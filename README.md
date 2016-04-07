@@ -1,5 +1,7 @@
 # pronounceable
 
+[![Build Status](https://travis-ci.org/lukem512/pronounceable.svg?branch=master)](https://travis-ci.org/lukem512/pronounceable) ![Dependency Status](https://david-dm.org/lukem512/pronounceable.svg)
+
 Pronounceable is a small module that allows you to test a word for pronounceability.
 
 To use it, simple install via NPM and include it in your project file.
