@@ -1,7 +1,7 @@
 // Luke Mitchell, 2016
 // https://github.com/lukem512/pronounceable
 
-var pronounceable = require('pronounceable');
+var pronounceable = require('../pronounceable');
 
 // Scoring a word using the standard dataset.
 // The output is a normalised score. The higher the number

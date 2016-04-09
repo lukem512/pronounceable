@@ -26,7 +26,12 @@ function test() {
 		thump: true,
 		grumph: true,
 		samosa: true,
-		xghsii: false
+		xghsii: false,
+		as: true,
+		ha: true,
+		sa: true,
+		xz: false,
+		kt: false
 	};
 
 	var failed = false;
