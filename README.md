@@ -4,7 +4,7 @@
 
 Pronounceable is a small module that allows you to test a word for pronounceability.
 
-To use it, simple install via NPM and include it in your project file.
+To use it, simply install via NPM and include it in your project file.
 
 ```
 	var pronounceable = require('pronounceable');
